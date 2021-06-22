@@ -1,0 +1,86 @@
+@font-face {
+    font-family: PatuaOne;
+    src: url('./PatuaOne-Regular.ttf');
+}
+
+/* * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.patua-one {
+    font-family: PatuaOne;
+}
+
+.fs-36 {
+    font-size: 36px;
+    color: whitesmoke;
+}
+
+.fs-14 {
+    font-size: 14px;
+    color: whitesmoke;
+}
+
+.fs-14-black {
+    font-size: 14px;
+    color: black;
+}
+
+.fs-36-black {
+    font-size: 36px;
+    color: black;
+}
+
+.fs-18 {
+    font-size: 18px;
+    color: white;
+}
+
+.bg {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo-img {
+    width: 10%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.description {
+    width: 60%;
+    text-align: center;
+    padding: 20px;
+}
+
+.features-description {
+    text-align: center;
+}
+
+.border {
+    border: 5px solid white;
+}
+
+.photo {
+    width: 200px;
+}
+
+.person-description {
+    text-align: center;
+    width: 50%;
+    justify-content: center;
+}
+
+.width-half {
+    width: 50%;
+}
